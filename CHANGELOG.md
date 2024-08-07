@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.7.13+5.65.13
+ - Update package:web to 1.0.0
+
 ## 0.7.12+5.65.16
  - Update to CodeMirror 5.65.16
  - Migrate dart:html to package:web
